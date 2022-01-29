@@ -1,0 +1,11 @@
+D:\Программирование\Алгоритмы\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+D:\Программирование\Алгоритмы\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+D:\Программирование\Алгоритмы\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+D:\Программирование\Алгоритмы\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.AssemblyReference.cache
+D:\Программирование\Алгоритмы\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.SuggestedBindingRedirects.cache
+D:\Программирование\Алгоритмы\Algorithms\Algorithms\obj\Debug\Algorithms.Form1.resources
+D:\Программирование\Алгоритмы\Algorithms\Algorithms\obj\Debug\Algorithms.Properties.Resources.resources
+D:\Программирование\Алгоритмы\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.GenerateResource.cache
+D:\Программирование\Алгоритмы\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+D:\Программирование\Алгоритмы\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+D:\Программирование\Алгоритмы\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
