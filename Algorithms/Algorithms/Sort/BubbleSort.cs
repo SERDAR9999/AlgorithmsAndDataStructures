@@ -1,10 +1,9 @@
 ﻿using System;
 
-namespace Algorithms
+namespace Algorithms.Sort
 {
     public class BubbleSort<T> : AlgorithmBase<T> where T : IComparable // сортировка пузырьком
     {
-        // Описание
         // Время: лучшее - O(n), худшее - O(n^2)
 
         public override void Sort()
