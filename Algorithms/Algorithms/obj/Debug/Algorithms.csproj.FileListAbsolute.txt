@@ -9,3 +9,15 @@ D:\Программирование\Алгоритмы\Algorithms\Algorithms\obj
 D:\Программирование\Алгоритмы\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
 D:\Программирование\Алгоритмы\Algorithms\Algorithms\obj\Debug\Algorithms.exe
 D:\Программирование\Алгоритмы\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.SuggestedBindingRedirects.cache
+D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\obj\Debug\Algorithms.Form1.resources
+D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\obj\Debug\Algorithms.Properties.Resources.resources
+D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.GenerateResource.cache
+D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\obj\Debug\VerticalProgressBar.VerticalProgressBar.resources
+D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.AssemblyReference.cache

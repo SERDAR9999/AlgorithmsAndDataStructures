@@ -6,7 +6,7 @@ namespace Algorithms.Sort
     {
         // Время: лучшее - O(n), худшее - O(n^2)
 
-        public override void Sort()
+        protected override void MakeSort()
         {
             var count = Items.Count;
 
@@ -17,6 +17,7 @@ namespace Algorithms.Sort
                     var a = Items[j];
                     var b = Items[j + 1];
 
+                    ComparisonCount++;
                     if (a.CompareTo(b) == 1)
                     {
                         Swop(j, j + 1);
