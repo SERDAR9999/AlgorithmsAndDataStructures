@@ -8,8 +8,8 @@ namespace Algorithms
     {
         public List<T> Items { get; set; } = new List<T>();
 
-        public int SwopCount { get; protected set; }
-        public int ComparisonCount { get; protected set; }
+        public int SwopCount { get; protected set; } //количество обменов
+        public int ComparisonCount { get; protected set; } //количество сравнений
 
         public TimeSpan Sort()
         {
@@ -25,10 +25,12 @@ namespace Algorithms
             return timer.Elapsed;
         }
 
+        // Переопределяется для каждого отдельного алгоритма сортировки
         protected virtual void MakeSort()
         {
             Items.Sort();
         }
+
 
         protected void Swop(int positionA, int positionB)
         {
@@ -42,20 +44,9 @@ namespace Algorithms
             }
             else
             {
-                throw new Exception("Выход ха границы массива");
+                throw new Exception("Выход за границы массива");
             }
         }
-
-        //public void FillRandom(int count)
-        //{
-        //    var rnd = new Random();
-        //    for (int i = 0; i < Items.Count; i++)
-        //    {
-        //        Items.Add(rnd.Next(0, 100));
-        //    }
-        //    Array.Copy(arr_1, arr_2, arr_1.Length);
-        //    Array.Copy(arr_1, arr_3, arr_1.Length);
-        //}
 
     }
 }

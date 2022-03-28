@@ -58,6 +58,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sort\CocktailSort.cs" />
+    <Compile Include="Sort\InsertionSort.cs" />
     <Compile Include="VerticalProgressBar.cs">
       <SubType>UserControl</SubType>
     </Compile>

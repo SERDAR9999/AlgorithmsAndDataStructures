@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Программирование\\AlgorithmsAndDataStructures\\DataStructures\\HashTable\\HashTable\\HashTable.csproj": {}
+    "D:\\Программирование\\AlgorithmsAndDataStructures\\DataStructures\\LinkedList\\LinkedList\\LinkedList.csproj": {}
   },
   "projects": {
-    "D:\\Программирование\\AlgorithmsAndDataStructures\\DataStructures\\HashTable\\HashTable\\HashTable.csproj": {
+    "D:\\Программирование\\AlgorithmsAndDataStructures\\DataStructures\\LinkedList\\LinkedList\\LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Программирование\\AlgorithmsAndDataStructures\\DataStructures\\HashTable\\HashTable\\HashTable.csproj",
-        "projectName": "HashTable",
-        "projectPath": "D:\\Программирование\\AlgorithmsAndDataStructures\\DataStructures\\HashTable\\HashTable\\HashTable.csproj",
+        "projectUniqueName": "D:\\Программирование\\AlgorithmsAndDataStructures\\DataStructures\\LinkedList\\LinkedList\\LinkedList.csproj",
+        "projectName": "LinkedList",
+        "projectPath": "D:\\Программирование\\AlgorithmsAndDataStructures\\DataStructures\\LinkedList\\LinkedList\\LinkedList.csproj",
         "packagesPath": "C:\\Users\\Irene\\.nuget\\packages\\",
-        "outputPath": "D:\\Программирование\\AlgorithmsAndDataStructures\\DataStructures\\HashTable\\HashTable\\obj\\",
+        "outputPath": "D:\\Программирование\\AlgorithmsAndDataStructures\\DataStructures\\LinkedList\\LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Irene\\AppData\\Roaming\\NuGet\\NuGet.Config",

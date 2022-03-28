@@ -1,0 +1,15 @@
+D:\Программирование\AlgorithmsAndDataStructures\DataStructures\LinkedList\LinkedList\bin\Debug\net6.0\LinkedList.exe
+D:\Программирование\AlgorithmsAndDataStructures\DataStructures\LinkedList\LinkedList\bin\Debug\net6.0\LinkedList.deps.json
+D:\Программирование\AlgorithmsAndDataStructures\DataStructures\LinkedList\LinkedList\bin\Debug\net6.0\LinkedList.runtimeconfig.json
+D:\Программирование\AlgorithmsAndDataStructures\DataStructures\LinkedList\LinkedList\bin\Debug\net6.0\LinkedList.dll
+D:\Программирование\AlgorithmsAndDataStructures\DataStructures\LinkedList\LinkedList\bin\Debug\net6.0\ref\LinkedList.dll
+D:\Программирование\AlgorithmsAndDataStructures\DataStructures\LinkedList\LinkedList\bin\Debug\net6.0\LinkedList.pdb
+D:\Программирование\AlgorithmsAndDataStructures\DataStructures\LinkedList\LinkedList\obj\Debug\net6.0\LinkedList.csproj.AssemblyReference.cache
+D:\Программирование\AlgorithmsAndDataStructures\DataStructures\LinkedList\LinkedList\obj\Debug\net6.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\AlgorithmsAndDataStructures\DataStructures\LinkedList\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfoInputs.cache
+D:\Программирование\AlgorithmsAndDataStructures\DataStructures\LinkedList\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfo.cs
+D:\Программирование\AlgorithmsAndDataStructures\DataStructures\LinkedList\LinkedList\obj\Debug\net6.0\LinkedList.csproj.CoreCompileInputs.cache
+D:\Программирование\AlgorithmsAndDataStructures\DataStructures\LinkedList\LinkedList\obj\Debug\net6.0\LinkedList.dll
+D:\Программирование\AlgorithmsAndDataStructures\DataStructures\LinkedList\LinkedList\obj\Debug\net6.0\ref\LinkedList.dll
+D:\Программирование\AlgorithmsAndDataStructures\DataStructures\LinkedList\LinkedList\obj\Debug\net6.0\LinkedList.pdb
+D:\Программирование\AlgorithmsAndDataStructures\DataStructures\LinkedList\LinkedList\obj\Debug\net6.0\LinkedList.genruntimeconfig.cache

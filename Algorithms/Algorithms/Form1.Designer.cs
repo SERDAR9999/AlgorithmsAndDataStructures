@@ -37,7 +37,7 @@
             this.HeapSortBtn = new System.Windows.Forms.Button();
             this.SelectionSortBtn = new System.Windows.Forms.Button();
             this.ShellSortBtn = new System.Windows.Forms.Button();
-            this.InsertSortBtn = new System.Windows.Forms.Button();
+            this.btnInsertionSort = new System.Windows.Forms.Button();
             this.btnCocktailSort = new System.Windows.Forms.Button();
             this.SwopLbl = new System.Windows.Forms.Label();
             this.CompareLbl = new System.Windows.Forms.Label();
@@ -148,15 +148,15 @@
             this.ShellSortBtn.Text = "ShellSort";
             this.ShellSortBtn.UseVisualStyleBackColor = true;
             // 
-            // InsertSortBtn
+            // btnInsertionSort
             // 
-            this.InsertSortBtn.Location = new System.Drawing.Point(234, 182);
-            this.InsertSortBtn.Margin = new System.Windows.Forms.Padding(4);
-            this.InsertSortBtn.Name = "InsertSortBtn";
-            this.InsertSortBtn.Size = new System.Drawing.Size(100, 28);
-            this.InsertSortBtn.TabIndex = 28;
-            this.InsertSortBtn.Text = "InsertSort";
-            this.InsertSortBtn.UseVisualStyleBackColor = true;
+            this.btnInsertionSort.Location = new System.Drawing.Point(234, 182);
+            this.btnInsertionSort.Margin = new System.Windows.Forms.Padding(4);
+            this.btnInsertionSort.Name = "btnInsertionSort";
+            this.btnInsertionSort.Size = new System.Drawing.Size(100, 28);
+            this.btnInsertionSort.TabIndex = 28;
+            this.btnInsertionSort.Text = "InsertionSort";
+            this.btnInsertionSort.UseVisualStyleBackColor = true;
             // 
             // btnCocktailSort
             // 
@@ -307,7 +307,7 @@
             this.panel4.Controls.Add(this.SwopLbl);
             this.panel4.Location = new System.Drawing.Point(2, 232);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(258, 107);
+            this.panel4.Size = new System.Drawing.Size(353, 107);
             this.panel4.TabIndex = 38;
             // 
             // Form1
@@ -325,7 +325,7 @@
             this.Controls.Add(this.HeapSortBtn);
             this.Controls.Add(this.SelectionSortBtn);
             this.Controls.Add(this.ShellSortBtn);
-            this.Controls.Add(this.InsertSortBtn);
+            this.Controls.Add(this.btnInsertionSort);
             this.Controls.Add(this.btnCocktailSort);
             this.Controls.Add(this.btnBubbleSort);
             this.Controls.Add(this.panel3);
@@ -353,7 +353,7 @@
         private System.Windows.Forms.Button HeapSortBtn;
         private System.Windows.Forms.Button SelectionSortBtn;
         private System.Windows.Forms.Button ShellSortBtn;
-        private System.Windows.Forms.Button InsertSortBtn;
+        private System.Windows.Forms.Button btnInsertionSort;
         private System.Windows.Forms.Button btnCocktailSort;
         private System.Windows.Forms.Label SwopLbl;
         private System.Windows.Forms.Label CompareLbl;
