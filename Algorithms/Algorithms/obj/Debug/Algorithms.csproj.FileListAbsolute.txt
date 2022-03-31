@@ -19,5 +19,4 @@ D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algor
 D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
 D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\obj\Debug\Algorithms.exe
 D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
-D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\obj\Debug\VerticalProgressBar.VerticalProgressBar.resources
 D:\Программирование\AlgorithmsAndDataStructures\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.AssemblyReference.cache

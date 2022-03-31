@@ -6,23 +6,41 @@ namespace Algorithms
 {
     public class AlgorithmBase<T> where T : IComparable
     {
-        public List<T> Items { get; set; } = new List<T>();
+        /// <summary>
+        /// Список элементов.
+        /// </summary>
+        public List<T> Items { get; set; }
 
-        public int SwopCount { get; protected set; } //количество обменов
-        public int ComparisonCount { get; protected set; } //количество сравнений
+        /// <summary>
+        /// Количество обменов.
+        /// </summary>
+        public int SwopCount { get; protected set; }
 
-        public TimeSpan Sort()
+        /// <summary>
+        /// Количество сравнений.
+        /// </summary>
+        public int ComparisonCount { get; protected set; }
+
+        /// <summary>
+        /// Время сортировки.
+        /// </summary>
+        public TimeSpan SortingTime { get; protected set; }
+
+        public AlgorithmBase(List<T> items)
+        {
+            Items = items;
+        }
+
+        public void Sort()
         {
             SwopCount = 0;
             ComparisonCount = 0;
 
-            var timer = new Stopwatch();
-
-            timer.Start();
+            var time = Stopwatch.StartNew();
             MakeSort();
-            timer.Stop();
+            time.Stop();
 
-            return timer.Elapsed;
+            SortingTime = time.Elapsed;
         }
 
         // Переопределяется для каждого отдельного алгоритма сортировки
@@ -31,7 +49,9 @@ namespace Algorithms
             Items.Sort();
         }
 
-
+        /// <summary>
+        /// Меняет местами два элемента.
+        /// </summary>
         protected void Swop(int positionA, int positionB)
         {
             if(positionA < Items.Count && positionB < Items.Count)

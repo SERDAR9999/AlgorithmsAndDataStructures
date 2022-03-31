@@ -1,10 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Algorithms.Sort
 {
-    public class CocktailSort<T> : AlgorithmBase<T> where T : IComparable // шейкерная сортировка
+    /// <summary>
+    /// Шейкерная сортировка.
+    /// </summary>
+    public class CocktailSort<T> : AlgorithmBase<T> where T : IComparable
     {
         // Время: лучшее - O(n), худшее - O(n^2)
+
+        public CocktailSort(List<T> items) : base(items)
+        {
+        }
 
         protected override void MakeSort()
         {

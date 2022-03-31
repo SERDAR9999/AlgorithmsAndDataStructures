@@ -1,10 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Algorithms.Sort
 {
-    public class BubbleSort<T> : AlgorithmBase<T> where T : IComparable // сортировка пузырьком
+    /// <summary>
+    /// Сортировка пузырьком.
+    /// </summary>
+    public class BubbleSort<T> : AlgorithmBase<T> where T : IComparable 
     {
         // Время: лучшее - O(n), худшее - O(n^2)
+
+        public BubbleSort(List<T> items) : base(items)
+        {
+        }
 
         protected override void MakeSort()
         {
